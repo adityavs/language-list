@@ -30,6 +30,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Coco](https://github.com/satyr/coco)** - Unfancy CoffeeScript - http://satyr.github.com/coco/
 * **[CoffeeScript](https://github.com/jashkenas/coffeescript)** - Unfancy JavaScript - http://coffeescript.org/
 * **[ColaScript](https://github.com/TrigenSoftware/ColaScript)** - translator / parser / mangler / compressor / beautifier toolkit 
+* **[contracts.coffee](https://github.com/disnet/contracts.coffee)** - Contracts for CoffeeScript - http://disnetdev.com/contracts.coffee/
 * **[Converge](https://github.com/ltratt/converge)** - The Converge programming language - http://convergepl.org/
 * **[Cosmos](https://github.com/mcsoto/cosmos)** - A new logic programming language.
 * **[Crack](https://github.com/weyrick/crack-language)** - Crack programming language - http://code.google.com/p/crack-language/
@@ -73,13 +74,17 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Gershwin](https://github.com/gershwin/gershwin)** - Gershwin programming language - http://gershwinlang.org/
 * **[gherkin](https://github.com/alandipert/gherkin)** - a functional programming language and interpreter written in GNU Bash 4
 * **[Go](https://github.com/golang/go)** - The Go programming language - https://golang.org/
+* **[GorillaScript](https://github.com/ckknight/gorillascript)** - GorillaScript is a compile-to-JavaScript language designed to empower the user while attempting to prevent some common errors.
 * **[Gosu](https://github.com/gosu-lang/gosu-lang)** - The Gosu programming language - http://gosu-lang.org/
 * **[Groovy](https://github.com/groovy/groovy-core)** - Groovy programming language - http://groovy.codehaus.org/
 
 ### H
 
+* **[Ham](https://github.com/jameskeane/ham-script)** - An altJS language for the web
 * **[Harlan](https://github.com/eholk/harlan)** - A language for GPU computing.
 * **[Haxe](https://github.com/HaxeFoundation/haxe)** - Haxe - The Cross-Platform Toolkit - http://haxe.org/
+* **[heap.coffee](https://github.com/syg/heap.coffee)** - Unfancy JavaScript with Manual Memory Management
+* **[Hot Cocoa Lisp](https://github.com/olleicua/hcl)** - Hot Cocoa Lisp
 * **[Hue](https://github.com/rsms/hue)** - A functional programming language
 * **[Hy](https://github.com/hylang/hy)** - ὑμήνπτερόν - http://hylang.org/
 
@@ -92,19 +97,27 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 
 ### J
 
+* **[Jack](https://github.com/creationix/jack)** - Another new language. The name will probably change.
+* **[Jisp](https://github.com/Mitranim/jisp)** - The modern JavaScript: a programmable language - http://jisp.io
+* **[JSX](https://github.com/jsx/JSX/)** - JSX - a faster, safer, easier JavaScript - http://jsx.github.io/
 * **[Julia](https://github.com/JuliaLang/julia)** - The Julia Language: A fresh approach to technical computing. - http://julialang.org/
 
 ### K
 
+* **[Kaffeine](https://github.com/weepy/kaffeine)** - Extended Javascript for Pros - http://weepy.github.com/kaffeine/
 * **[Kal](https://github.com/rzimmerman/kal)** - A powerful, easy-to-use, and easy-to-read programming language for the future. - http://rzimmerman.github.io/kal
+* **[ki](https://github.com/lantiga/ki)** - lisp + mori, sweet.js - http://ki-lang.org
 * **[Kitten](https://github.com/evincarofautumn/kitten)** - A statically typed concatenative programming language. - http://kittenlang.org/
 * **[Khepri](https://github.com/mattbierner/khepri)** - ECMAScript derived programming language - http://khepri-lang.com/
 * **[Kotlin](https://github.com/JetBrains/kotlin)** - The Kotlin Programming Language - http://kotlinlang.org/
 
 ### L
 
+* **[LESS](https://github.com/less/less.js)** - Leaner CSS - http://lesscss.org
 * **[LispyScript](https://github.com/santoshrajan/lispyscript)** - A javascript with Lispy syntax and macros - http://lispyscript.com/
+* **[Lithium](https://github.com/thomasfoster96/lithium)** - A lightweight and malleable programming language.
 * **[Litil](https://github.com/jawher/litil)** - The Litil programming language
+* **[LiteScript](https://github.com/luciotato/LiteScript)** - Compile-to-js and compile-to-c language, highly readable, keep it simple philosophy
 * **[LiveScript](https://github.com/gkz/LiveScript)** - LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming. - http://livescript.net/
 * **[Lobster](https://github.com/aardappel/lobster)** - The Lobster Programming Language - http://strlen.com/lobster
 
@@ -119,6 +132,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Monicelli](https://github.com/esseks/monicelli)** - An esoteric programming language, come se fosse antani.
 * **[Monkey](https://github.com/blitz-research/monkey)** - Blitz Research Monkey Source - http://www.monkey-x.com/
 * **[MoonScript](https://github.com/leafo/moonscript)** - MoonScript, a language that compiles to Lua - http://moonscript.org/
+* **[Move](https://github.com/rsms/move)** - A simple, functional-biased, prototypal and powerful programming language that runs on any ES3 (or better) JavaScript platform, aimed toward people new to programming - http://movelang.org/
 * **[Mythryl](https://github.com/mythryl/mythryl)** - The Mythryl programming language - http://www.mythryl.org/
 
 ### N
@@ -134,8 +148,10 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 
 ### P
 
+* **[Parsec Coffee-Script](https://github.com/fab13n/parsec-coffee-script)**
 * **[PHP](https://github.com/php/php-src)** - The PHP Interpreter - http://www.php.net/
 * **[Pogoscript](https://github.com/featurist/pogoscript)** - A readable, DSL friendly programming language with excellent concurrency primitives - http://pogoscript.org/
+* **[Processing](https://github.com/processing/processing)** - Source code for the Processing Development Environment (PDE) - http://processing.org/
 * **[PureScript](https://github.com/purescript/purescript)** - A small strongly, statically typed language that compiles to Javascript - http://purescript.org
 
 ### Q
@@ -149,6 +165,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Red](https://github.com/red/red)** - Red Programming Language - http://red-lang.org/
 * **[RedScript](https://github.com/AdamBrodzinski/RedScript)** - https://github.com/AdamBrodzinski/RedScript - http://redscript.org/
 * **[Reia](https://github.com/tarcieri/reia)** - Ruby-like hybrid OOP/functional programming language for BEAM, the Erlang VM - http://reia-lang.org/
+* **[Roy](https://github.com/puffnfresh/roy)** - Small functional language that compiles to JavaScript. - http://roy.brianmckenna.org/
 * **[Ruby](https://github.com/ruby/ruby)** - The Ruby Programming Language - http://www.ruby-lang.org/
 * **[Rust](https://github.com/rust-lang/rust)** - a safe, concurrent, practical language - http://www.rust-lang.org
 
@@ -161,6 +178,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Sugar](https://github.com/sebastien/sugar)** - Makes JavaScript development sweeter !
 * **[SuperCollider](https://github.com/supercollider/supercollider)** - A programming language for real time audio synthesis and algorithmic composition - http://supercollider.github.io/
 * **[SurveyMan](https://github.com/SurveyMan/SurveyMan)** - SurveyMan programming language. - http://surveyman.github.io/SurveyMan/
+* **[Swym](https://github.com/LaurieCheers/Swym)** - The Swym programming language - http://cheersgames.com/swym/wiki
 
 ### T
 
@@ -178,6 +196,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 ### W
 
 * **[Winxed](https://github.com/NotFound/winxed)** - The winxed programming language - http://winxed.net/
+* **[Wisp](https://github.com/Gozala/wisp)** - Homoiconic JS with clojure syntax, s-expressions & macros - http://jeditoolkit.com/wisp/
 * **[World](https://github.com/Geomol/World)** - World Programming Language - http://world-lang.org/
 * **[Wren](https://github.com/munificent/wren)** - The Wren Programming Language 
 * **[Wyvern](https://github.com/wyvernlang/wyvern)** - The Wyvern programming language. - https://www.cs.cmu.edu/~aldrich/wyvern/
