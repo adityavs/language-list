@@ -172,6 +172,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 ### S
 
 * **[Saffire](https://github.com/saffire/saffire)** - The programming language - http://www.saffire-lang.org/
+* **[Sass](https://github.com/sass/sass)** - Sass makes CSS fun again. - http://sass-lang.com
 * **[Scala](https://github.com/scala/scala)** - The Scala programming language - http://www.scala-lang.org/
 * **[Sibilant](https://github.com/jbr/sibilant)** - Javascript with a lisp - http://sibilantjs.info/
 * **[Slate](https://github.com/briantrice/slate-language)** - The Slate programming language - http://www.slatelanguage.org/
