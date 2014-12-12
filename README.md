@@ -152,6 +152,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Parsec Coffee-Script](https://github.com/fab13n/parsec-coffee-script)**
 * **[PHP](https://github.com/php/php-src)** - The PHP Interpreter - http://www.php.net/
 * **[Pogoscript](https://github.com/featurist/pogoscript)** - A readable, DSL friendly programming language with excellent concurrency primitives - http://pogoscript.org/
+* **[PrettyScript](https://github.com/jedediah/prettyscript)** - Make JavaScript look and feel like Ruby
 * **[Processing](https://github.com/processing/processing)** - Source code for the Processing Development Environment (PDE) - http://processing.org/
 * **[PureScript](https://github.com/purescript/purescript)** - A small strongly, statically typed language that compiles to Javascript - http://purescript.org
 
