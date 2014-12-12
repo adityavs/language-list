@@ -114,6 +114,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 ### L
 
 * **[LESS](https://github.com/less/less.js)** - Leaner CSS - http://lesscss.org
+* **[LFE](https://github.com/rvirding/lfe)** - Lisp Flavoured Erlang (LFE) - http://lfe.github.io/
 * **[LispyScript](https://github.com/santoshrajan/lispyscript)** - A javascript with Lispy syntax and macros - http://lispyscript.com/
 * **[Lithium](https://github.com/thomasfoster96/lithium)** - A lightweight and malleable programming language.
 * **[Litil](https://github.com/jawher/litil)** - The Litil programming language
@@ -176,6 +177,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Scala](https://github.com/scala/scala)** - The Scala programming language - http://www.scala-lang.org/
 * **[Sibilant](https://github.com/jbr/sibilant)** - Javascript with a lisp - http://sibilantjs.info/
 * **[Slate](https://github.com/briantrice/slate-language)** - The Slate programming language - http://www.slatelanguage.org/
+* **[Streem](https://github.com/matz/streem)** - prototype of stream based programming language
 * **[Sugar](https://github.com/sebastien/sugar)** - Makes JavaScript development sweeter !
 * **[SuperCollider](https://github.com/supercollider/supercollider)** - A programming language for real time audio synthesis and algorithmic composition - http://supercollider.github.io/
 * **[SurveyMan](https://github.com/SurveyMan/SurveyMan)** - SurveyMan programming language. - http://surveyman.github.io/SurveyMan/
