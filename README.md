@@ -130,6 +130,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Mirah](https://github.com/mirah/mirah)** - The Mirah Programming Language - http://mirah.org/
 * **[Moescript](https://github.com/moescript/moescript)** - A not-very-but-still-light Javascript-targeted language. (and its runtime and libraries.) 
 * **[mobl](https://github.com/mobl/mobl)** - Domain-specific language for mobile (web) applications. This repository contains the compiler sources and Eclipse project. - http://www.mobl-lang.org/
+* **[Mochi](https://github.com/i2y/mochi)** - Dynamically typed functional programming language
 * **[Mojikun](https://github.com/steveklabnik/mojikun)** - A programming language that you'll :heart:
 * **[Monicelli](https://github.com/esseks/monicelli)** - An esoteric programming language, come se fosse antani.
 * **[Monkey](https://github.com/blitz-research/monkey)** - Blitz Research Monkey Source - http://www.monkey-x.com/
