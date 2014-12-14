@@ -98,6 +98,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 ### J
 
 * **[Jack](https://github.com/creationix/jack)** - Another new language. The name will probably change.
+* **[Jayfor](https://github.com/freefouran/jayfor)** - Jayfor is a programming language written in C
 * **[Jisp](https://github.com/Mitranim/jisp)** - The modern JavaScript: a programmable language - http://jisp.io
 * **[JSX](https://github.com/jsx/JSX/)** - JSX - a faster, safer, easier JavaScript - http://jsx.github.io/
 * **[Julia](https://github.com/JuliaLang/julia)** - The Julia Language: A fresh approach to technical computing. - http://julialang.org/
