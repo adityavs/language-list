@@ -72,6 +72,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Felix](https://github.com/felix-lang/felix)** - The Felix Programming Language - http://felix-lang.org/
 * **[Figarp](https://github.com/p2t2/figaro)** - Figaro Programming Language and Core Libraries - http://www.cra.com/figaro
 * **[Fjord](https://github.com/penberg/fjord)** - Fjord, F# programming language for the JVM.
+* **[Flua](https://github.com/blitzprog/flua)** - Flua is a concurrent, general-purpose programming language that supports multiple syntaxes and output languages via a general-purpose interface. - http://flua-lang.org
 * **[Forml](https://github.com/texodus/forml)** - A programming language - http://texodus.github.io/forml/
 * **[Frege](https://github.com/Frege/frege)** - Frege is a pure functional programming language for the JVM in the spirit of Haskell.
 * **[Frenetic](https://github.com/frenetic-lang/frenetic)** - The Frenetic Programming Language and Runtime System - http://www.frenetic-lang.org/
