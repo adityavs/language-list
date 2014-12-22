@@ -22,6 +22,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 ### C
 
 * **[Caffeine](https://github.com/ich/caffeine)** - Caffeine extends CoffeeScript.
+* **[Celltone](https://github.com/andreasjansson/Celltone)**  - A programming language for generative music composition using cellular automata
 * **[Chapel](https://github.com/chapel-lang/chapel)** - a Productive Parallel Programming Language - http://chapel.cray.com/
 * **[ChucK](https://github.com/ccrma/chuck)** - ChucK Music Programming Language - http://chuck.stanford.edu/
 * **[Circa](https://github.com/andyfischer/circa)** - A programming language for live coding - http://circa-lang.org/
@@ -63,6 +64,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[EmberScript](https://github.com/ghempton/ember-script)** - Ember-infused CoffeeScript - http://emberscript.com/
 * **[Erlang](https://github.com/erlang/otp)** - Erlang/OTP - http://erlang.org/
 * **[Escher](https://github.com/gocircuit/escher)** - Escher: A language for programming in metaphors - http://escher.io/
+* **[Eve](https://github.com/sorakun/Eve)** - Eve programming language
 
 ### F
 
@@ -145,6 +147,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[LiteScript](https://github.com/luciotato/LiteScript)** - Compile-to-js and compile-to-c language, highly readable, keep it simple philosophy
 * **[LiveScript](https://github.com/gkz/LiveScript)** - LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming. - http://livescript.net/
 * **[Lobster](https://github.com/aardappel/lobster)** - The Lobster Programming Language - http://strlen.com/lobster
+* **[Louise](https://github.com/np-complete/louise)** - Programming Language 'Louise'
 
 ### M
 
@@ -206,6 +209,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Roy](https://github.com/puffnfresh/roy)** - Small functional language that compiles to JavaScript. - http://roy.brianmckenna.org/
 * **[Ruby](https://github.com/ruby/ruby)** - The Ruby Programming Language - http://www.ruby-lang.org/
 * **[Rust](https://github.com/rust-lang/rust)** - a safe, concurrent, practical language - http://www.rust-lang.org
+* **[Rusthon](https://github.com/rusthon/Rusthon)** - pythonic language that compiles to: Rust and C++ - http://rusthon-lang.blogspot.com
 
 ### S
 
@@ -216,6 +220,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Shoelipshttps://github.com/mortie/shoelips)** - Stack based postfix programming language.
 * **[Sibilant](https://github.com/jbr/sibilant)** - Javascript with a lisp - http://sibilantjs.info/
 * **[Slate](https://github.com/briantrice/slate-language)** - The Slate programming language - http://www.slatelanguage.org/
+* **[Smile](https://github.com/orbekk/Smile)** - Smile programming language
 * **[Source](https://github.com/iconmaster5326/Source)** - It's a programming language. - https://github.com/iconmaster5326/Source/wiki/Home
 * **[Spell](https://github.com/rferraz/spell)** - A programming language using LLVM for code generation
 * **[Spitfire](https://github.com/jcrawley/Spitfire)** - A programming language that's all about being short and quick
@@ -225,11 +230,13 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Sugar](https://github.com/sebastien/sugar)** - Makes JavaScript development sweeter !
 * **[SuperCollider](https://github.com/supercollider/supercollider)** - A programming language for real time audio synthesis and algorithmic composition - http://supercollider.github.io/
 * **[SurveyMan](https://github.com/SurveyMan/SurveyMan)** - SurveyMan programming language. - http://surveyman.github.io/SurveyMan/
+* **[Swarm](https://github.com/sanity/swarm-proto)** - Prototype of the Swarm Distributed Programming Language - http://blog.locut.us/category/projects/swarm/
 * **[Swym](https://github.com/LaurieCheers/Swym)** - The Swym programming language - http://cheersgames.com/swym/wiki
 * **[Sybilant](https://github.com/sybilant/sybilant)** - A hybridly typed, functional, full stack, Lisp programming language. 
 ### T
 
 * **[Taijilang](https://github.com/taijiweb/taijilang)** - a customizable and extensible language with dynamic parser and meta compilation. 
+* **[Thnad](https://github.com/undees/thnad)** - Just enough of a fictional programming language to show how to write a compiler
 * **[Three](https://github.com/mattmassicotte/three)** - Three Programming Language
 * **[ToffeeScript](https://github.com/jiangmiao/toffee-script)** - CoffeeScript with async syntax and some additional features
 * **[TypeScript](https://github.com/Microsoft/TypeScript)** - TypeScript is a superset of JavaScript that compiles to clean JavaScript output. - http://www.typescriptlang.org/ 
@@ -246,6 +253,8 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 
 ### W
 
+* **[wadc]()** - wadc - A programming language for the construction of Doom maps - http://jmtd.net/computing/software/wadc/
+* **[Whiley](https://github.com/Whiley/WhileyCompiler)** - The Whiley Compiler (WyC) - http://whiley.org
 * **[Winxed](https://github.com/NotFound/winxed)** - The winxed programming language - http://winxed.net/
 * **[Wisp](https://github.com/Gozala/wisp)** - Homoiconic JS with clojure syntax, s-expressions & macros - http://jeditoolkit.com/wisp/
 * **[Wolf](https://github.com/owainlewis/wolf)** - A programming language
@@ -262,4 +271,3 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Yuzu](https://github.com/takuto-h/yuzu)** - A self-hosted programming language
 
 ### Z
-
