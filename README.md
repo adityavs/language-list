@@ -48,8 +48,10 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[D# (DogeSharp)](https://github.com/returnString/DogeSharp)** - much language, so programming, very .NET
 * **[Dagon](https://github.com/halogenandtoast/dagon)** - The programming language of the elder gods.
 * **[Dao](https://github.com/daokoder/dao)** - Dao Programming Language - http://daovm.net/
+* **[Dart](https://github.com/dart-lang/bleeding_edge)** - Best Effort syncing, no guarantees. A read-only mirror of dart.googlecode.com. - http://www.dart-lang.org/
 * **[Derplang](https://github.com/jessehorne/derplang)** - A programming language. - http://jessehorne.github.io/derplang
 * **[Djest](https://github.com/luqui/Djest)** - A programming language that deduces code from tests
+* **[Dogescript](https://github.com/dogescript/dogescript/)** - wow so syntax very doge much future - http://dogescript.com
 * **[Duck](https://github.com/gregtour/duck-lang)** - Duck Programming Language - http://www.ducklang.org/
 
 ### E
@@ -157,6 +159,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Moescript](https://github.com/moescript/moescript)** - A not-very-but-still-light Javascript-targeted language. (and its runtime and libraries.) 
 * **[mobl](https://github.com/mobl/mobl)** - Domain-specific language for mobile (web) applications. This repository contains the compiler sources and Eclipse project. - http://www.mobl-lang.org/
 * **[Mochi](https://github.com/i2y/mochi)** - Dynamically typed functional programming language
+* **[Mochiscript](https://github.com/jeffsu/mochiscript)** - Mochiscript: Javascript Dessert - http://github.com/jeffsu/mochiscript
 * **[Mojikun](https://github.com/steveklabnik/mojikun)** - A programming language that you'll :heart:
 * **[Mond](https://github.com/Rohansi/Mond)** - A scripting language for C# .NET/Mono - https://fpp.literallybrian.com/mond/
 * **[Monicelli](https://github.com/esseks/monicelli)** - An esoteric programming language, come se fosse antani.
@@ -179,6 +182,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Objeck](https://github.com/objeck/objeck-lang)** - Objeck Programming Language - http://www.objeck.org
 * **[ObjectScript](https://github.com/unitpoint/objectscript)** - ObjectScript, OS for short, is a new programming language. It's free, cross-platform, lightweight, embeddable and open-source. It combines the benefits of multiple languages, including: JavaScript, Lua, Ruby, Python and PHP. OS features the syntax of Javascripts, the "multiple results" feature from lua, syntactic shugar from Ruby as well as magi… - http://objectscript.org
 * **[Opa](https://github.com/MLstate/opalang/)** - Opa Application Framework for JavaScript - http://opalang.org/
+* **[Oppo](https://github.com/benekastah/oppo)** - If javascript is lisp in c's clothing, then oppo is lisp in lisp's clothing, with c's pajamas. - http://benekastah.github.com/oppo
 * **[Outlet](https://github.com/jlongster/outlet)** - Outlet is a simple Lisp-like programming language - http://jlongster.com/s/outlet/
 
 ### P
@@ -194,6 +198,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[PumaScript](https://github.com/emravera/puma)** - A meta scripting programming language based on LayerD foundations.
 * **[PureScript](https://github.com/purescript/purescript)** - A small strongly, statically typed language that compiles to Javascript - http://purescript.org
 * **[Purity](https://github.com/paf31/Purity)** - CLR-Hosted Total Functional Programming Language
+* **[Pygmy](https://github.com/peterolson/Pygmy/)** - http://peterolson.github.com/Pygmy/Docs
 
 ### Q
 
@@ -207,6 +212,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[RedScript](https://github.com/AdamBrodzinski/RedScript)** - https://github.com/AdamBrodzinski/RedScript - http://redscript.org/
 * **[Reia](https://github.com/tarcieri/reia)** - Ruby-like hybrid OOP/functional programming language for BEAM, the Erlang VM - http://reia-lang.org/
 * **[Roy](https://github.com/puffnfresh/roy)** - Small functional language that compiles to JavaScript. - http://roy.brianmckenna.org/
+* **[rpn](https://github.com/adrusi/rpn)** - An RPN-based language implemented as an interpreter written in javascript.
 * **[Ruby](https://github.com/ruby/ruby)** - The Ruby Programming Language - http://www.ruby-lang.org/
 * **[Rust](https://github.com/rust-lang/rust)** - a safe, concurrent, practical language - http://www.rust-lang.org
 * **[Rusthon](https://github.com/rusthon/Rusthon)** - pythonic language that compiles to: Rust and C++ - http://rusthon-lang.blogspot.com
@@ -219,6 +225,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Scala](https://github.com/scala/scala)** - The Scala programming language - http://www.scala-lang.org/
 * **[Shoelipshttps://github.com/mortie/shoelips)** - Stack based postfix programming language.
 * **[Sibilant](https://github.com/jbr/sibilant)** - Javascript with a lisp - http://sibilantjs.info/
+* **[Six](https://github.com/matthewrobb/six)** - JavaScript you can bet on. [WARNING]: Progress has been suspended on this project most likely indefinitely - http://sixlang.org
 * **[Slate](https://github.com/briantrice/slate-language)** - The Slate programming language - http://www.slatelanguage.org/
 * **[Smile](https://github.com/orbekk/Smile)** - Smile programming language
 * **[Source](https://github.com/iconmaster5326/Source)** - It's a programming language. - https://github.com/iconmaster5326/Source/wiki/Home
@@ -239,12 +246,15 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Thnad](https://github.com/undees/thnad)** - Just enough of a fictional programming language to show how to write a compiler
 * **[Three](https://github.com/mattmassicotte/three)** - Three Programming Language
 * **[ToffeeScript](https://github.com/jiangmiao/toffee-script)** - CoffeeScript with async syntax and some additional features
+* **[Topaz](https://github.com/giesse/Project-SnowBall)** - This project is getting less misterious than it used to be... - http://www.colellachiara.com/soft/topaz/try-topaz.html
 * **[TypeScript](https://github.com/Microsoft/TypeScript)** - TypeScript is a superset of JavaScript that compiles to clean JavaScript output. - http://www.typescriptlang.org/ 
 * **[Typo](https://github.com/seliopou/typo)** - A programming language that runs in Haskell's type system.
 
 ### U
 
 * **[UglyLang](https://github.com/EmilHernvall/UglyLang)** - Toy programming language
+* **[uilang](https://github.com/bendc/uilang)** - A minimal, UI-focused programming language for web designers. - http://uilang.com
+* **[uiscript](https://github.com/qweek/uiscript)** - A minimal, UI-focused script language for web designers.
 * **[Uno](https://github.com/judofyr/uno-lang)** - A programming language
 
 ### V
@@ -259,6 +269,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Wisp](https://github.com/Gozala/wisp)** - Homoiconic JS with clojure syntax, s-expressions & macros - http://jeditoolkit.com/wisp/
 * **[Wolf](https://github.com/owainlewis/wolf)** - A programming language
 * **[World](https://github.com/Geomol/World)** - World Programming Language - http://world-lang.org/
+* **[Wortel](https://github.com/atennapel/Wortel)** - Programming language that compiles to Javascript (altjs) - http://atennapel.github.io/Wortel
 * **[Wren](https://github.com/munificent/wren)** - The Wren Programming Language 
 * **[Wyvern](https://github.com/wyvernlang/wyvern)** - The Wyvern programming language. - https://www.cs.cmu.edu/~aldrich/wyvern/
 
