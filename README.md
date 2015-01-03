@@ -214,6 +214,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Roy](https://github.com/puffnfresh/roy)** - Small functional language that compiles to JavaScript. - http://roy.brianmckenna.org/
 * **[rpn](https://github.com/adrusi/rpn)** - An RPN-based language implemented as an interpreter written in javascript.
 * **[Ruby](https://github.com/ruby/ruby)** - The Ruby Programming Language - http://www.ruby-lang.org/
+* **[Runa](https://github.com/djc/runa)** - A Python-like systems programming language
 * **[Rust](https://github.com/rust-lang/rust)** - a safe, concurrent, practical language - http://www.rust-lang.org
 * **[Rusthon](https://github.com/rusthon/Rusthon)** - pythonic language that compiles to: Rust and C++ - http://rusthon-lang.blogspot.com
 
