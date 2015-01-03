@@ -224,7 +224,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Sass](https://github.com/sass/sass)** - Sass makes CSS fun again. - http://sass-lang.com
 * **[Saturate](https://github.com/rsms/saturate)** - Python-esque programming language
 * **[Scala](https://github.com/scala/scala)** - The Scala programming language - http://www.scala-lang.org/
-* **[Shoelipshttps://github.com/mortie/shoelips)** - Stack based postfix programming language.
+* **[Shoelips](https://github.com/mortie/shoelips)** - Stack based postfix programming language.
 * **[Sibilant](https://github.com/jbr/sibilant)** - Javascript with a lisp - http://sibilantjs.info/
 * **[Six](https://github.com/matthewrobb/six)** - JavaScript you can bet on. [WARNING]: Progress has been suspended on this project most likely indefinitely - http://sixlang.org
 * **[Slate](https://github.com/briantrice/slate-language)** - The Slate programming language - http://www.slatelanguage.org/
