@@ -94,6 +94,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Golo](https://github.com/golo-lang/golo-lang/)** - Golo - a lightweight dynamic language for the JVM. - http://golo-lang.org/
 * **[GorillaScript](https://github.com/ckknight/gorillascript)** - GorillaScript is a compile-to-JavaScript language designed to empower the user while attempting to prevent some common errors.
 * **[Gosu](https://github.com/gosu-lang/gosu-lang)** - The Gosu programming language - http://gosu-lang.org/
+* **[Groot](https://github.com/thiagopnts/groot)** - The Groot Programming Language
 * **[Groovy](https://github.com/groovy/groovy-core)** - Groovy programming language - http://groovy.codehaus.org/
 * **[Gunderscript](https://github.com/gundermanc/gunderscript)** - Gunderscript Programming Language source code and documentation. Deprecated. See gunderscript-2.
 * **[Gunderscript-2](https://github.com/gundermanc/gunderscript-2)** - Gunderscript-2 Programming Language. Supersedes the original Gunderscript and is a completely new language.
