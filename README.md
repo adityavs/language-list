@@ -107,6 +107,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Harlan](https://github.com/eholk/harlan)** - A language for GPU computing.
 * **[Haxe](https://github.com/HaxeFoundation/haxe)** - Haxe - The Cross-Platform Toolkit - http://haxe.org/
 * **[heap.coffee](https://github.com/syg/heap.coffee)** - Unfancy JavaScript with Manual Memory Management
+* **[hodor](https://github.com/mikar/hodor)** - the "hodor" programming language
 * **[Hot Cocoa Lisp](https://github.com/olleicua/hcl)** - Hot Cocoa Lisp
 * **[Hue](https://github.com/rsms/hue)** - A functional programming language
 * **[Hy](https://github.com/hylang/hy)** - ὑμήνπτερόν - http://hylang.org/
