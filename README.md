@@ -266,7 +266,8 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 
 ### W
 
-* **[wadc]()** - wadc - A programming language for the construction of Doom maps - http://jmtd.net/computing/software/wadc/
+* **[wadc](https://github.com/jmtd/wadc)** - wadc - A programming language for the construction of Doom maps - http://jmtd.net/computing/software/wadc/
+* **[Wake](https://github.com/MichaelRFairhurst/wake-compiler)** - C++ compiler for the programming language Wake: a fast, expressive, typesafe language built with testability from the ground up. - http://wakelang.com
 * **[Whiley](https://github.com/Whiley/WhileyCompiler)** - The Whiley Compiler (WyC) - http://whiley.org
 * **[Winxed](https://github.com/NotFound/winxed)** - The winxed programming language - http://winxed.net/
 * **[Wisp](https://github.com/Gozala/wisp)** - Homoiconic JS with clojure syntax, s-expressions & macros - http://jeditoolkit.com/wisp/
