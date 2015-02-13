@@ -53,6 +53,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Djest](https://github.com/luqui/Djest)** - A programming language that deduces code from tests
 * **[Dogescript](https://github.com/dogescript/dogescript/)** - wow so syntax very doge much future - http://dogescript.com
 * **[Duck](https://github.com/gregtour/duck-lang)** - Duck Programming Language - http://www.ducklang.org/
+* **[Dylan](https://github.com/dylan-lang/opendylan)** - Open Dylan compiler and IDE - http://opendylan.org/
 
 ### E
 
