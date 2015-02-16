@@ -264,6 +264,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 ### V
 
 * **[Vigil](https://github.com/munificent/vigil)** - Vigil, the eternal morally vigilant programming language
+* **[Vivaldi](https://github.com/jeorgun/Vivaldi)** - Interpreted language inspired by Python, Ruby, Lisp, and so forth
 
 ### W
 
