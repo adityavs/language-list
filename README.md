@@ -108,6 +108,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Harlan](https://github.com/eholk/harlan)** - A language for GPU computing.
 * **[Haxe](https://github.com/HaxeFoundation/haxe)** - Haxe - The Cross-Platform Toolkit - http://haxe.org/
 * **[heap.coffee](https://github.com/syg/heap.coffee)** - Unfancy JavaScript with Manual Memory Management
+* **[heroin](https://github.com/xxxgentleman/heroin)** - a lisp-like, M-expressions language based on node.js
 * **[hodor](https://github.com/mikar/hodor)** - the "hodor" programming language
 * **[Hot Cocoa Lisp](https://github.com/olleicua/hcl)** - Hot Cocoa Lisp
 * **[Hue](https://github.com/rsms/hue)** - A functional programming language
@@ -251,6 +252,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Three](https://github.com/mattmassicotte/three)** - Three Programming Language
 * **[ToffeeScript](https://github.com/jiangmiao/toffee-script)** - CoffeeScript with async syntax and some additional features
 * **[Topaz](https://github.com/giesse/Project-SnowBall)** - This project is getting less misterious than it used to be... - http://www.colellachiara.com/soft/topaz/try-topaz.html
+* **[tulip](https://github.com/jneen/tulip)** - Tulip is a language, and it's cool! It used to be called UNF, and is described here in full.
 * **[TypeScript](https://github.com/Microsoft/TypeScript)** - TypeScript is a superset of JavaScript that compiles to clean JavaScript output. - http://www.typescriptlang.org/ 
 * **[Typo](https://github.com/seliopou/typo)** - A programming language that runs in Haskell's type system.
 
