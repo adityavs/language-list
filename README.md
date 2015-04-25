@@ -50,6 +50,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Dao](https://github.com/daokoder/dao)** - Dao Programming Language - http://daovm.net/
 * **[Dart](https://github.com/dart-lang/bleeding_edge)** - Best Effort syncing, no guarantees. A read-only mirror of dart.googlecode.com. - http://www.dart-lang.org/
 * **[Derplang](https://github.com/jessehorne/derplang)** - A programming language. - http://jessehorne.github.io/derplang
+* **[dg](https://github.com/pyos/dg)** - A programming language running on CPython VM. - http://pyos.github.io/dg/
 * **[Djest](https://github.com/luqui/Djest)** - A programming language that deduces code from tests
 * **[Dogescript](https://github.com/dogescript/dogescript/)** - wow so syntax very doge much future - http://dogescript.com
 * **[Duck](https://github.com/gregtour/duck-lang)** - Duck Programming Language - http://www.ducklang.org/
