@@ -155,6 +155,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[LiveScript](https://github.com/gkz/LiveScript)** - LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming. - http://livescript.net/
 * **[Lobster](https://github.com/aardappel/lobster)** - The Lobster Programming Language - http://strlen.com/lobster
 * **[Louise](https://github.com/np-complete/louise)** - Programming Language 'Louise'
+* **[Lux](https://github.com/LuxLang/lux)** - The Lux Programming Language
 
 ### M
 
