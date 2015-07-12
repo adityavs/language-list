@@ -55,6 +55,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Dogescript](https://github.com/dogescript/dogescript/)** - wow so syntax very doge much future - http://dogescript.com
 * **[Duck](https://github.com/gregtour/duck-lang)** - Duck Programming Language - http://www.ducklang.org/
 * **[Dylan](https://github.com/dylan-lang/opendylan)** - Open Dylan compiler and IDE - http://opendylan.org/
+* **[Dyvil](https://github.com/clashsoft/dyvil)** - The Dyvil programming language - https://reddit.com/r/Dyvil
 
 ### E
 
@@ -179,7 +180,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[NeNuzhuo](https://github.com/asdf404/nenuzhno-language)** - Yet another useless programming language
 * **[Neptune](https://github.com/shatterednirvana/neptune)** - The Neptune Programming Language - http://neptune-lang.org
 * **[ngscript](https://github.com/wssccc/ngscript)** - the ngscript programming language - http://ngscript.org/
-* **[Nim](https://github.com/Araq/Nimrod)** - Nim (formerly known as "Nimrod") is a compiled, garbage-collected systems programming language which has an excellent productivity/performance ratio. Nim's design focuses on efficiency, expressiveness, elegance (in the order of priority). - http://nim-lang.org/
+* **[Nim](https://github.com/nim-lang/nim)** - Nim (formerly known as "Nimrod") is a compiled, garbage-collected systems programming language which has an excellent productivity/performance ratio. Nim's design focuses on efficiency, expressiveness, elegance (in the order of priority). - http://nim-lang.org/
 * **[noir](https://github.com/chneukirchen/noir)** - a new programming language
 * **[Nu](https://github.com/timburks/nu)** - The Nu programming language. - http://programming.nu/
 
@@ -247,6 +248,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Swarm](https://github.com/sanity/swarm-proto)** - Prototype of the Swarm Distributed Programming Language - http://blog.locut.us/category/projects/swarm/
 * **[Swym](https://github.com/LaurieCheers/Swym)** - The Swym programming language - http://cheersgames.com/swym/wiki
 * **[Sybilant](https://github.com/sybilant/sybilant)** - A hybridly typed, functional, full stack, Lisp programming language. 
+
 ### T
 
 * **[Taijilang](https://github.com/taijiweb/taijilang)** - a customizable and extensible language with dynamic parser and meta compilation. 
