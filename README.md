@@ -41,6 +41,7 @@ Skip to: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)
 * **[Coteline](https://github.com/TypeUnsafe/coteline-lang)** - The Coteline Programming Language - https://typeunsafe.github.io/coteline/
 * **[Crack](https://github.com/weyrick/crack-language)** - Crack programming language - http://code.google.com/p/crack-language/
 * **[Crystal](https://github.com/manastech/crystal)** - The Crystal Programming Language - http://crystal-lang.org/
+* **[Cuneiform](https://github.com/joergen7/cuneiform)** - Functional programming language for large-scale data analysis - https://www.cuneiform-lang.org/
 
 ### D
 
